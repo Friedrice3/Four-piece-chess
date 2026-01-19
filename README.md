@@ -1,4 +1,6 @@
 # Four-piece chess 
+This is my first time write a public Repo readme.   
+maybe sth. will missing...
 ## Project background
 This is an assignment from a basic programming course, completed on [2024/11].   
 Enter the coordinates as numbers, place a piece at that location,   
@@ -37,9 +39,6 @@ Enter row and column (e.g., 0 1):
 try to enter some number like ```0 1``` ```9 1```   
 Then you'll see the corresponding player's pieces appear at the corresponding coordinates.
 
-There's also a Python script    
-### (but it's so fking terrible and not recommended)  
-that can automatically run the draw results.
 
 ## Post-completion insights
 It is currently 2026/1.   
