@@ -15,7 +15,7 @@ git clone https://github.com/Friedrice3/Four-piece-chess.git
 ```
 - run game
 ```bash
-cd GameCore
+cd Four-piece-chess
 java four_piece_chess.java
 ```
 then you will see a checkerboard like this
