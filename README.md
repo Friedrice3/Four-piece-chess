@@ -11,7 +11,7 @@ If the board is full and neither side has achieved victory, a draw will occur.
 - clone the project
 
 ```bash
-    git clone
+    git clone https://github.com/Friedrice3/Four-piece-chess.git
 ```
 - run game
 ```bash
