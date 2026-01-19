@@ -11,12 +11,12 @@ If the board is full and neither side has achieved victory, a draw will occur.
 - clone the project
 
 ```bash
-    git clone https://github.com/Friedrice3/Four-piece-chess.git
+git clone https://github.com/Friedrice3/Four-piece-chess.git
 ```
 - run game
 ```bash
-    cd GameCore
-    java four_piece_chess.java
+cd GameCore
+java four_piece_chess.java
 ```
 then you will see a checkerboard like this
 
