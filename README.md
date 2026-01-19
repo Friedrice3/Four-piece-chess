@@ -15,7 +15,7 @@ If the board is full and neither side has achieved victory, a draw will occur.
 ```
 - run game
 ```bash
-    cd GameCore
+    cd Four-piece-chess/GameCore
     java four_piece_chess.java
 ```
 then you will see a checkerboard like this
